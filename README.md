@@ -34,6 +34,10 @@ The source code and internal technical materials are maintained separately and a
 
 The product is under development. Features and priorities will evolve based on testing and validated user needs.
 
+## Privacy
+
+Shotliv processes selected images locally in the browser. Read the [Shotliv Privacy Policy](PRIVACY.md) for details about information handling, storage, and sharing.
+
 ---
 
 **Better Photos. Effortlessly.**
