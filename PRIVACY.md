@@ -59,6 +59,6 @@ This policy will be updated if Shotliv's functionality or data practices change.
 
 ## 9. Contact
 
-For privacy-related questions, contact:
+A dedicated privacy contact address will be published in this section before Shotliv is publicly released.
 
-**privacy@shotliv.com**
+Until then, this policy should be treated as a pre-release document.
