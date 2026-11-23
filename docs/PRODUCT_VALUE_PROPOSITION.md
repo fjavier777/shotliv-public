@@ -129,7 +129,7 @@ Shotliv's conventional image-processing operations follow defined algorithms and
 ### 3.10 Batch processing
 **Status: Planned; not currently available.**
 
-Batch processing is the leading candidate for the first Pro capability. It is intended to let users select multiple images and apply supported operations in a more efficient local workflow.
+Batch processing is the leading candidate for the first Pro capability. The proposed workflow includes importing multiple files, selecting a folder where supported, or dragging and dropping images; reviewing thumbnails; adjusting brightness, contrast, and saturation separately for each image; and applying shared adjustment values to a selected group when useful. Users should be able to preview changes and export processed images separately. ZIP packaging remains under consideration.
 
 **Expected benefits**
 - Less repetitive work.
@@ -142,7 +142,7 @@ Batch processing is the leading candidate for the first Pro capability. It is in
 - Real-estate listings and property portfolios.
 - Product catalogs and other recurring commercial workflows.
 
-Do not advertise batch processing as available until it has been implemented, tested, and released.
+**Proposed scope only — not implemented or available.** The initial technical direction is local sequential processing, with approximately 30 images used as a benchmark scenario rather than a promised batch limit. Actual performance and limits must be established through testing. Do not advertise batch processing as available until it has been implemented, tested, and released.
 
 ---
 
