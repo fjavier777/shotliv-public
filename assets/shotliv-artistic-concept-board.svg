@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1080" viewBox="0 0 1600 1080" role="img" aria-labelledby="title desc">
+<title id="title">Shotliv Artistic — concept board</title>
+<desc id="desc">Original vector concept board showing four possible creative photography categories: lighting, color, effects, and portrait.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#17191d"/><stop offset="1" stop-color="#30343b"/></linearGradient>
+  <linearGradient id="warm" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffd18a"/><stop offset="1" stop-color="#a94d35"/></linearGradient>
+  <linearGradient id="cool" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#9cc9d2"/><stop offset="1" stop-color="#364b70"/></linearGradient>
+  <linearGradient id="pink" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f3b2a8"/><stop offset="1" stop-color="#76516f"/></linearGradient>
+  <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f6d18b"/><stop offset="1" stop-color="#80613e"/></linearGradient>
+  <filter id="soft"><feGaussianBlur stdDeviation="18"/></filter>
+  <clipPath id="clip1"><rect x="72" y="260" width="690" height="300" rx="22"/></clipPath>
+  <clipPath id="clip2"><rect x="838" y="260" width="690" height="300" rx="22"/></clipPath>
+  <clipPath id="clip3"><rect x="72" y="690" width="690" height="300" rx="22"/></clipPath>
+  <clipPath id="clip4"><rect x="838" y="690" width="690" height="300" rx="22"/></clipPath>
+</defs>
+<rect width="1600" height="1080" fill="url(#bg)"/>
+<text x="72" y="100" fill="#f7f4ee" font-family="Arial,sans-serif" font-size="24" letter-spacing="7">SHOTLIV / CONCEPT EXPLORATION</text>
+<text x="72" y="180" fill="#ffffff" font-family="Arial,sans-serif" font-size="66" font-weight="700">ARTISTIC</text>
+<text x="76" y="220" fill="#c7c9cb" font-family="Arial,sans-serif" font-size="23">A future collection of creative photographic treatments</text>
+
+<!-- Lighting -->
+<g clip-path="url(#clip1)">
+<rect x="72" y="260" width="690" height="300" fill="#242832"/>
+<circle cx="230" cy="370" r="120" fill="#eab67c" opacity=".5" filter="url(#soft)"/>
+<path d="M72 260H762V560H72Z" fill="#111923" opacity=".22"/>
+<ellipse cx="420" cy="415" rx="105" ry="135" fill="#b87959"/>
+<path d="M330 390Q330 275 430 285Q530 295 520 410L500 485Q455 545 370 490Z" fill="#d8a07a"/>
+<path d="M330 380Q350 270 440 286Q520 300 525 390L480 355Q430 330 385 365L350 420Z" fill="#332c30"/>
+<path d="M420 385L465 390L450 420Q435 410 420 415Z" fill="#f5d69d" opacity=".95"/>
+<path d="M420 385L465 390L450 420Q435 410 420 415Z" fill="none" stroke="#fff1cf" stroke-width="3"/>
+<rect x="72" y="260" width="690" height="300" fill="url(#warm)" opacity=".13"/>
+</g>
+<text x="102" y="310" fill="#fff" font-family="Arial,sans-serif" font-size="20" letter-spacing="3">01 / LIGHTING</text>
+<text x="102" y="525" fill="#fff" font-family="Arial,sans-serif" font-size="32" font-weight="700">Shape the light</text>
+
+<!-- Color -->
+<g clip-path="url(#clip2)">
+<rect x="838" y="260" width="690" height="300" fill="#263345"/>
+<rect x="838" y="260" width="345" height="300" fill="#c77d52" opacity=".7"/>
+<rect x="1183" y="260" width="345" height="300" fill="#386b83" opacity=".8"/>
+<circle cx="1180" cy="405" r="140" fill="#f0c39b" opacity=".35" filter="url(#soft)"/>
+<ellipse cx="1180" cy="410" rx="105" ry="130" fill="#d69a78"/>
+<path d="M1077 385Q1088 270 1190 286Q1284 305 1280 400L1240 355Q1185 325 1125 365L1090 430Z" fill="#252a35"/>
+<rect x="838" y="260" width="690" height="300" fill="url(#cool)" opacity=".15"/>
+</g>
+<text x="868" y="310" fill="#fff" font-family="Arial,sans-serif" font-size="20" letter-spacing="3">02 / COLOR</text>
+<text x="868" y="525" fill="#fff" font-family="Arial,sans-serif" font-size="32" font-weight="700">Set the mood</text>
+
+<!-- Effects -->
+<g clip-path="url(#clip3)">
+<rect x="72" y="690" width="690" height="300" fill="#292333"/>
+<circle cx="280" cy="825" r="130" fill="#f5c5a0" opacity=".3" filter="url(#soft)"/>
+<ellipse cx="420" cy="840" rx="104" ry="130" fill="#c78e77"/>
+<path d="M318 810Q330 690 430 710Q520 730 520 825L480 775Q420 750 365 790L335 855Z" fill="#312632"/>
+<path d="M72 920Q280 790 460 990H72Z" fill="#f4a76e" opacity=".38"/>
+<path d="M500 690L762 690L762 990L610 990Z" fill="#d98a9c" opacity=".12"/>
+<g fill="#fff" opacity=".3"><circle cx="180" cy="780" r="3"/><circle cx="230" cy="900" r="2"/><circle cx="540" cy="760" r="3"/><circle cx="600" cy="890" r="2"/><circle cx="360" cy="730" r="2"/><circle cx="690" cy="820" r="3"/></g>
+</g>
+<text x="102" y="740" fill="#fff" font-family="Arial,sans-serif" font-size="20" letter-spacing="3">03 / EFFECTS</text>
+<text x="102" y="955" fill="#fff" font-family="Arial,sans-serif" font-size="32" font-weight="700">Add atmosphere</text>
+
+<!-- Portrait -->
+<g clip-path="url(#clip4)">
+<rect x="838" y="690" width="690" height="300" fill="#354039"/>
+<rect x="838" y="690" width="690" height="300" fill="url(#gold)" opacity=".5"/>
+<circle cx="1180" cy="810" r="140" fill="#ffe5b1" opacity=".45" filter="url(#soft)"/>
+<path d="M1035 990Q1050 865 1180 865Q1310 865 1325 990Z" fill="#30353a"/>
+<ellipse cx="1180" cy="815" rx="100" ry="125" fill="#d9a17f"/>
+<path d="M1080 795Q1080 685 1185 700Q1280 710 1280 800L1240 755Q1185 730 1120 775L1090 835Z" fill="#292b2b"/>
+<path d="M1125 850Q1180 875 1235 850" fill="none" stroke="#80584c" stroke-width="5" stroke-linecap="round"/>
+</g>
+<text x="868" y="740" fill="#fff" font-family="Arial,sans-serif" font-size="20" letter-spacing="3">04 / PORTRAIT</text>
+<text x="868" y="955" fill="#fff" font-family="Arial,sans-serif" font-size="32" font-weight="700">Refine the portrait</text>
+
+<text x="72" y="1040" fill="#aeb2b8" font-family="Arial,sans-serif" font-size="16">ORIGINAL VECTOR CONCEPT ART · NOT A PRODUCT SCREENSHOT · NOT AN IMPLEMENTED FEATURE</text>
+</svg>
