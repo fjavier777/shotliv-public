@@ -40,6 +40,12 @@ Its guiding concept is:
 
 Shotliv improves existing photographs through conventional image processing rather than generative reconstruction of the photographed scene.
 
+## Future exploration: Shotliv Artistic
+
+Shotliv Artistic is an early concept for a possible future collection of creative photographic treatments, exploring areas such as lighting, color, visual effects, and portrait styles. It is not part of the current product release, and no effects or delivery dates have been committed.
+
+The [concept board](assets/shotliv-artistic-concept-board.svg) is original vector concept artwork for discussion only. It is not a product screenshot and does not represent implemented functionality.
+
 ## Development
 
 Shotliv is developed with a **Build in Public** approach. Public updates may cover product direction, demonstrations, release notes, and lessons from development.
