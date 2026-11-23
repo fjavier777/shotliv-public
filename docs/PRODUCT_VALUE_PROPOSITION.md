@@ -283,6 +283,21 @@ Better photos. Effortlessly.
 
 ---
 
-## 12. Document maintenance
+## 12. Future exploration: Shotliv Artistic
+
+Shotliv Artistic is an exploratory product concept for a possible future collection of creative photographic treatments. The concept is organized around four broad areas:
+
+- **Lighting:** photographic lighting looks and atmosphere.
+- **Color:** creative color grades and film-inspired palettes.
+- **Effects:** texture, glow, vignette, and other visual treatments.
+- **Portrait:** selected treatments intended for portrait photography.
+
+This direction is exploratory only. It is not part of the current MVP, is not currently available, and does not represent a commitment to implement any specific effect or release date. Candidate effects must be evaluated against user demand, visual quality, technical feasibility, and the product's local-processing principles before entering a development roadmap.
+
+The [Shotliv Artistic concept board](../assets/shotliv-artistic-concept-board.svg) is original vector concept artwork, not a product screenshot or representation of implemented functionality.
+
+---
+
+## 13. Document maintenance
 
 Update this document whenever product capabilities, data practices, or validated technical behavior change. Keep implementation status explicit and do not turn assumptions or planned features into public product claims.
