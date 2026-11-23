@@ -2,19 +2,29 @@
 
 **Better Photos. Effortlessly.**
 
-Shotliv is a lightweight photo-enhancement product focused on making everyday image adjustments simple and accessible.
+Shotliv is a lightweight photo-enhancement product designed for everyone, from everyday users to professionals who prepare images for publication.
 
 ## Product
 
-The initial Chrome extension MVP focuses on the adjustments people commonly need:
-
+The Chrome extension focuses on practical image adjustments:
 - Brightness
 - Contrast
 - Saturation
 - Original-versus-enhanced preview
 - Export in PNG, WebP, and JPEG
 
-Image processing is performed locally in the browser. The initial product does not require an account, image upload, or cloud processing.
+Image processing takes place locally in the browser. Selected photographs do not need to be uploaded to a Shotliv server for enhancement.
+
+## Free + Pro
+
+Shotliv is being developed around two access levels:
+
+- **Free:** useful core editing, one image per operation, and unlimited use over time.
+- **Pro:** a subscription focused on productivity for recurring image workflows. Batch processing is the leading candidate for the first paid capability.
+
+The product remains open to general users. Its priority professional use cases are vehicle listings and real-estate photography, where users may need to prepare many images repeatedly.
+
+Specific Pro features, pricing, and subscription terms will be validated before launch. Planned capabilities are not presented as currently available.
 
 ## Product philosophy
 
@@ -28,9 +38,7 @@ Its guiding concept is:
 
 **Enhance. Don't Reinvent.**
 
-Shotliv is designed to make common image-enhancement tasks fast and straightforward, while keeping image processing local and avoiding generative reconstruction of the photographed scene.
-
-For the complete product positioning, benefits, differentiators, planned capabilities, and validation requirements, see **[Product Value Proposition & Differentiators](docs/PRODUCT_VALUE_PROPOSITION.md)**.
+Shotliv improves existing photographs through conventional image processing rather than generative reconstruction of the photographed scene.
 
 ## Development
 
