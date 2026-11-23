@@ -24,6 +24,14 @@ Shotliv follows a simple workflow:
 
 The product prioritizes essential tools, visible results, and an experience without unnecessary complexity.
 
+Its guiding concept is:
+
+**Enhance. Don't Reinvent.**
+
+Shotliv is designed to make common image-enhancement tasks fast and straightforward, while keeping image processing local and avoiding generative reconstruction of the photographed scene.
+
+For the complete product positioning, benefits, differentiators, planned capabilities, and validation requirements, see **[Product Value Proposition & Differentiators](docs/PRODUCT_VALUE_PROPOSITION.md)**.
+
 ## Development
 
 Shotliv is developed with a **Build in Public** approach. Public updates may cover product direction, demonstrations, release notes, and lessons from development.
